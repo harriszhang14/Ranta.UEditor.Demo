@@ -48,7 +48,7 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="Ranta.UEditor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=de363516f0e497fd, processorArchitecture=MSIL">
-      <HintPath>..\packages\Ranta.UEditor.1.0.0.0\lib\net45\Ranta.UEditor.dll</HintPath>
+      <HintPath>..\packages\Ranta.UEditor.1.0.0.2\lib\net45\Ranta.UEditor.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
